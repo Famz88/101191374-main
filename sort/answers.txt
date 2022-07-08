@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Took 0.334s to sort reversed10000.txt
+
+sort2 uses: Merge sort
+
+How do you know?: Took 0.068s to sort reversed10000.txt which is faster than sort1/ bubble sort.
+
+sort3 uses: Selection sort
+
+How do you know?: Took 0.174s to sort reversed10000.txt which is faster than sort1 and slower than sort2
